@@ -1,0 +1,7 @@
+#Program to display "Hello World" , Or any string  
+
+def print_string(str): #Defining function as print_string
+    print(str)
+#Calling the function 
+print_string("Hello World!")
+
